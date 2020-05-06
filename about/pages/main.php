@@ -1,5 +1,5 @@
 <div id="content">
-<h2 id="about">About</h2>
+<h1 id="about">About</h1>
 
 <p>The Extensible Binary Universal Protocol (XBUP) is a prototype of general purpose multi-layer binary data protocol and file format with primary focus on abstraction and data transformation.</p>
 

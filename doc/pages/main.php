@@ -1,5 +1,5 @@
 <div id="content">
-<h2 id="about">Documentation</h2>
+<h1 id="documentation">Documentation</h1>
 
 </div>
 </body>

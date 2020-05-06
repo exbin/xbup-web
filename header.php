@@ -48,7 +48,6 @@ if (!empty($prefix)) {
   <li><div>Development</div>
     <ul class="submenu">
       <li><a href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>?features">Features</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?concepts">Concepts</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?source-codes">Source Codes</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?donate">Donate</a></li>
@@ -57,8 +56,10 @@ if (!empty($prefix)) {
   <li><div>Social</div>
     <ul class="submenu">
       <li><a href="<?php echo $rootPrefix; ?>?comments">User Comments</a></li>
+      <li><a class="urlextern" href="https://github.com/exbin/">GitHub</a></li>
       <li><a class="urlextern" href="https://sourceforge.net/projects/xbup/">SourceForge</a></li>
       <li><a class="urlextern" href="https://www.openhub.net/p/xbup/">OpenHub</a></li>
+      <li><a class="urlextern" href="https://twitter.com/exbinproject/">Twitter</a></li>
     </ul>
   </li>
 </ul>
