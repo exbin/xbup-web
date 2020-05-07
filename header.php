@@ -39,10 +39,10 @@ if (!empty($prefix)) {
   </li>
   <li><div>Documentation</div>
     <ul class="submenu">
-      <li><a href="<?php echo $parentPrefix; ?>doc/">Documentation</a><?php echo @$submenu_library; ?></li>
-      <li><a href="<?php echo $parentPrefix; ?>doc?specification">Specification</a><?php echo @$submenu_library; ?></li>
+      <li><a href="<?php echo $parentPrefix; ?>doc/">Documentation</a><?php echo @$submenu_documentation; ?></li>
+      <li><a href="<?php echo $parentPrefix; ?>doc?specification">Specification</a><?php echo @$submenu_specification; ?></li>
       <li><a href="<?php echo $parentPrefix; ?>doc?library">Component Libraries</a><?php echo @$submenu_library; ?></li>
-      <li><a href="<?php echo $parentPrefix; ?>doc?implementation_java">Java Implementation</a><?php echo @$submenu_library; ?></li>
+      <li><a href="<?php echo $parentPrefix; ?>doc?implementation_java">Java Implementation</a><?php echo @$submenu_implementation_java; ?></li>
     </ul>
   </li>
   <li><div>Development</div>

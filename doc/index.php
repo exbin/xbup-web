@@ -1,8 +1,16 @@
 <?php global $prefix, $submenu_about;
 $prefix = '..';
 
-include('../header.php');
 $query = getenv('QUERY_STRING');
+if (($query == 'specification') || (strncmp($query, "specification/", 14) === 0)) {
+  $submenu_specification = '
+<ul><li><a href="?specification/rfc'.$langPostfix.'">RFC</a></li></ul>';
+} else if (($query == '') || (strncmp($query, "doc/", 4) === 0)) {
+    $submenu_documentation = '
+<ul><li><a href="?doc/test'.$langPostfix.'">Test</a></li></ul>';
+}
+
+include('../header.php');
 if (empty($query)) {
   $include = 'pages/main.php';
 } else {

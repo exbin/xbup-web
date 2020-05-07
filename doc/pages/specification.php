@@ -3,7 +3,7 @@
 <div class="level2">
 
 <p>
-This is an overview of specification of the eXtensible Binary Universal Protocol as it is defined in prototype release version 0.1.25.
+This is an overview of specification of the eXtensible Binary Universal Protocol as it is defined in prototype release version 0.2.0.
 </p>
 
 <p>
