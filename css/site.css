@@ -40,6 +40,15 @@ pre {
   margin-right: auto;
 }
 
+.figure {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  border-width: 0;
+  max-width: 100%;
+  word-wrap: break-word;
+}
+
 div#name {
     margin-left: 0em;
     margin-top: 1em;
@@ -102,7 +111,7 @@ div#divider {
 
 ul#navmenu {
     float: left;
-    width: 11em;
+    width: 14em;
     margin: 0 0 0 0;
     padding: 0 0 0 0;
 
@@ -173,7 +182,7 @@ div#sidebar a.active {
 
 div#sidebar {
     float: left;
-    width: 11em;
+    width: 14em;
 
     border: solid rgb(208, 208, 208);
     border-width: 1px 1px 1px 1px;
@@ -218,8 +227,8 @@ div#content {
     box-sizing: content-box;
     position: relative;
     padding: 1em 0em 1em 2em;
-    margin-left: 11em;
-    width: 53em;
+    margin-left: 14em;
+    width: 50em;
     background-color: rgb(255, 255, 255);
     text-align: justify;
     border: solid rgb(208, 208, 208);

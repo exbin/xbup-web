@@ -15,7 +15,7 @@ This document is not final and it&#039;s also incomplete.
 </p>
 
 <p>
-For full specification, please see other parts of <a href="?wiki/doc/protocol" class="wikilink1" title="en:doc:protocol">protocol specification</a> in documentation.
+For full specification, please see other parts of <a href="?protocol">protocol specification</a> in documentation.
 </p>
 
 </div>
@@ -34,7 +34,7 @@ Lowest protocol&#039;s level defines basic tree structure using two primitive ty
 </ul>
 
 <p>
-See complete <a href="?wiki/doc/protocol/tree_structure" class="wikilink1" title="en:doc:protocol:tree_structure">specification of tree structure</a>.
+See complete <a href="?protocol/tree_structure">specification of tree structure</a>.
 </p>
 
 </div>
@@ -137,7 +137,7 @@ If <strong>dataPartSize = infinity</strong> for node block then sequence of data
 
 <p>
 <em>See following picture for clarification:</em>
-<a href="/dokuwiki/lib/exe/detail.php?id=en%3Adoc%3Aprotocol%3Aoverview&amp;media=en:doc:protocol:images:block_structure.png" class="media" title="en:doc:protocol:images:block_structure.png"><img src="/dokuwiki/lib/exe/fetch.php?w=400&amp;tok=c88b76&amp;media=en:doc:protocol:images:block_structure.png" class="mediacenter" title="Block Structure" alt="Block Structure" width="400" /></a>
+<img src="images/protocol/block_structure.png" class="figure" title="Block Structure" alt="Block Structure" width="400" /></a>
 </p>
 
 </div>
@@ -150,7 +150,7 @@ Level 1 introduces block types and catalog. For this level all non-listed attrib
 </p>
 
 <p>
-See complete <a href="?wiki/doc/protocol/block_types" class="wikilink1" title="en:doc:protocol:block_types">specification of block types</a>.
+See complete <a href="?protocol/block_types">specification of block types</a>.
 </p>
 
 </div>
@@ -360,7 +360,7 @@ Block allows to define parameters count for particular specification definition.
 <div class="level3">
 
 <p>
-<img src="/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>
@@ -369,7 +369,7 @@ Block allows to define parameters count for particular specification definition.
 <div class="level2">
 
 <p>
-<img src="/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>

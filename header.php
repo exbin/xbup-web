@@ -23,7 +23,7 @@ if (!empty($prefix)) {
 <div id="name"><h1><a href="<?php echo $parentPrefix; ?>"><img src="<?php echo $parentPrefix; ?>images/xbup-logo.png" alt="[XBUP]" title="Icon" height="70" style="vertical-align: text-top; margin-top: -20px;"/>&nbsp;XBUP - Extensible Binary Universal Protocol</a></h1></div>
 <div id="navbar">
   <a id="DownloadIcon" href="<?php echo $rootPrefix; ?>?downloads">Download</a>
-  <a id="DocumentationIcon" href="<?php echo $rootPrefix; ?>editor/?manual">Manual</a>
+  <a id="DocumentationIcon" href="<?php echo $rootPrefix; ?>doc/">Manual</a>
 </div>
 <div id="divider"></div>
 
@@ -41,13 +41,13 @@ if (!empty($prefix)) {
     <ul class="submenu">
       <li><a href="<?php echo $parentPrefix; ?>doc/">Documentation</a><?php echo @$submenu_documentation; ?></li>
       <li><a href="<?php echo $parentPrefix; ?>doc?specification">Specification</a><?php echo @$submenu_specification; ?></li>
-      <li><a href="<?php echo $parentPrefix; ?>doc?library">Component Libraries</a><?php echo @$submenu_library; ?></li>
-      <li><a href="<?php echo $parentPrefix; ?>doc?implementation_java">Java Implementation</a><?php echo @$submenu_implementation_java; ?></li>
+      <li><a href="<?php echo $parentPrefix; ?>doc?implementation">Implementation</a><?php echo @$submenu_implementation; ?></li>
     </ul>
   </li>
   <li><div>Development</div>
     <ul class="submenu">
       <li><a href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
+      <li><a href="<?php echo $rootPrefix; ?>?status">Status</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?concepts">Concepts</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?source-codes">Source Codes</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?donate">Donate</a></li>

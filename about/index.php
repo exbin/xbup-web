@@ -11,7 +11,7 @@ $query = getenv('QUERY_STRING');
 if (empty($query)) {
   $include = 'pages/main.php';
 } else {
-  $target = 'pages/'.$query.'.php';
+  $target = 'pages/'.str_replace('/','_',$query).'.php';
   if (!(preg_match("/[a-z\/\_\-]+/", $query) === false) && file_exists($target)) {
     $include = $target;
   } else {
