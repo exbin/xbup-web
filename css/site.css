@@ -414,3 +414,7 @@ div#content {
   border-color: #3c6f22 #478228 #478228;
 }
 
+.invalid-link {
+  color: #d30;
+  text-decoration: line-through;
+}

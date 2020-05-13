@@ -3,7 +3,7 @@
 
 <div class="level2">
 <p>
-This project is currently in early development stage with Java prototype implementation under development. See <a href="?wiki/devel/status" class="wikilink1" title="en:devel:status">project status</a>.
+This project is currently in early development stage with Java prototype implementation under development. See <a href="?status">project status</a>.
 </p>
 
 <p>
@@ -48,8 +48,6 @@ If you want to contribute to this project, you should consider taking some of th
 <li class="level1"><div class="li"> If you don&#039;t have it yet, <a href="https://sourceforge.net/account/registration/" class="urlextern" title="https://sourceforge.net/account/registration/"  rel="nofollow">register</a> your own SourceForge account</div>
 </li>
 <li class="level1"><div class="li"> <a href="http://sourceforge.net/u/hajdam/profile/send_message" class="urlextern" title="http://sourceforge.net/u/hajdam/profile/send_message"  rel="nofollow">Send</a> a request to become member of the development team</div>
-</li>
-<li class="level1"><div class="li"> Prepare your <a href="?wiki/devel/ide" class="wikilink1" title="en:devel:ide">development environment</a></div>
 </li>
 <li class="level1"><div class="li"> <a href="https://sourceforge.net/forum/forum.php?thread_id=3338711&amp;forum_id=317000" class="urlextern" title="https://sourceforge.net/forum/forum.php?thread_id=3338711&amp;forum_id=317000"  rel="nofollow">Introduce yourself</a> to other members of the team (optional)</div>
 </li>
