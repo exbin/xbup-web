@@ -3,7 +3,7 @@ if (!empty($prefix)) {
     $parentPrefix = ''.$prefix.'/';
     $rootPrefix = $parentPrefix;
 } else {
-    $parentPrefix = '/next/';
+    $parentPrefix = '/';
     $rootPrefix = '';
 } ?><!DOCTYPE HTML>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">

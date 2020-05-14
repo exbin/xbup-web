@@ -2,9 +2,9 @@
 <?php if (time() > filectime('author-alive.dat') + (60 * 60 * 24 * 90)) {
   echo '<p><h3 style="color: red; background-color: yellow;">This project is abandoned - author of this project is either dead or very long not updating</h3></p>';
 } ?>
-<p>Free and open source binary/hexadecimal viewer/editor and component written in Java.</p>
+<p>The Extensible Binary Universal Protocol (XBUP) is a prototype of general purpose multi-layer binary data protocol and file format with primary focus on abstraction and data transformation.</p>
 <p>This is part of the <a href="http://exbin.org">ExBin Project</a>.</p>
-<p><img src="images/editor_screenshot.png" alt="Editor screenshot" title="Editor screenshot"/></p>
+<p style="color: red; background: yellow; font-size: 1.3em;"><strong>Website is under development!</strong> - See. <a href="old/">previous version</a> for full content for now.</p>
 
 <h2 id="latest_comment">Latest User Comment</h2>
 <?php
@@ -45,7 +45,7 @@ if ($count == 0) {
 <h2 id="news">News</h2>
 <ul>
 <li><p><strong>XXXX-XX-XX:</strong> News</p>
-<ul><li>Minor GUI improvements</li>
+<ul><li>Change</li>
 </ul></li>
 </ul>
 

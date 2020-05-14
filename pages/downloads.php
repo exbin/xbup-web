@@ -6,15 +6,16 @@ function echoDownload($arr) {
   }
 } ?><div id="content">
 <h2 id="downloads">Downloads</h2>
+<p>Releases are experimental and useful only for preview/testing...</p>
 <p>
 <a href="download/?<?php echo $downloads['xbup']['stb'][0]['file']; ?>" class="button button-green"><img src="images/filetypes/windows-32x32.png" style="vertical-align: middle;" width="28" height="28" alt="[WIN]"/>&nbsp;Download Installer (Windows)</a>&nbsp;
 <a href="download/?<?php echo $downloads['xbup']['stb'][1]['file']; ?>" class="button button-green"><img src="images/filetypes/zip-32x32.png" style="vertical-align: middle;" width="28" height="28" alt="[ZIP]"/>&nbsp;Download ZIP (Other platforms)</a></p>
-<h3 id="other_downloads">Other stable downloads</h3>
 <table class="downloads">
 <tr><th>Release&nbsp;</th><th>Stable&nbsp;</th></tr>
 <tr><td>Full Package</td>
   <td><?php echoDownload($downloads['xbup']['stb']); ?></td>
 </table>
+<p><a href="?older-downloads">Older releases</a></p>
 
 <h2 id="development">Development Versions Download</h2>
 <p>Development versions are likely untested/broken and at your own risk!</p>
