@@ -418,3 +418,20 @@ div#content {
   color: #d30;
   text-decoration: line-through;
 }
+
+.news-title {
+	background-color: #5F5FDF;
+	font-weight: bold;
+	color: white;
+	padding-left: 7px;
+}
+
+.news {
+	background-color: #EFEFFF;
+	padding: 5px;
+}
+
+
+.news-icon {
+  padding: 0px 4px 2px 2px;
+}
