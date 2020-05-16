@@ -8,7 +8,7 @@ if (($query == 'specification') || (strncmp($query, "specification/", 14) === 0)
 } else if (($query == 'implementation') || (strncmp($query, "implementation/", 15) === 0)) {
   $submenu_implementation = '
 <ul><li><a href="?implementation/java">Java Implementation</a></li></ul>';
-} else if (($query == '') || (strncmp($query, "doc/", 4) === 0)) {
+} else {
     $submenu_documentation = '
 <ul><li><a href="?doc/test">Test</a></li></ul>';
 }
@@ -17,7 +17,7 @@ include('../header.php');
 if (empty($query)) {
   $include = 'pages/main.php';
 } else {
-  $target = 'pages/'.str_replace('/','_',$query).'.php';
+  $target = 'pages/'.$query.'.php';
   if (!(preg_match("/[a-z\/\_\-]+/", $query) === false) && file_exists($target)) {
     $include = $target;
   } else {
