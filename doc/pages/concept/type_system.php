@@ -96,7 +96,7 @@ The following chart shows the ER diagram of the type definition in the catalog o
 </p>
 
 <p>
-<a href="/old/dokuwiki/lib/exe/detail.php?id=en%3Adoc%3Aconcept%3Atype_system&amp;media=en:doc:devel:progress:images:diagram4.png" class="media" title="en:doc:devel:progress:images:diagram4.png"><img src="/old/dokuwiki/lib/exe/fetch.php?media=en:doc:devel:progress:images:diagram4.png" class="mediacenter" title="Type definition&#039;s ER diagram" alt="Type definition&#039;s ER diagram" /></a>
+<img src="images/concept/diagram4.png" class="mediacenter" title="Type definition&#039;s ER diagram" alt="Type definition&#039;s ER diagram" />
 </p>
 
 <p>

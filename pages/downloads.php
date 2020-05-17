@@ -5,7 +5,7 @@ function echoDownload($arr) {
     echo $value['prefix'].'<a href="download/?'.$value['file'].'" title="Download '.$value['name'].'"><img src="images/filetypes/'.$value['icon'].'.png" alt="['. strtoupper($value['icon']).']" width="16" height="16"/> '.$value['ver'].'</a> ['.$value['date'].']';
   }
 } ?><div id="content">
-<h2 id="downloads">Downloads</h2>
+<h1 id="downloads">Downloads</h1>
 <p>Releases are experimental and useful only for preview/testing...</p>
 <p>
 <a href="download/?<?php echo $downloads['xbup']['stb'][0]['file']; ?>" class="button button-green"><img src="images/filetypes/windows-32x32.png" style="vertical-align: middle;" width="28" height="28" alt="[WIN]"/>&nbsp;Download Installer (Windows)</a>&nbsp;
