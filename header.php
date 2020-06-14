@@ -44,6 +44,13 @@ if (!empty($prefix)) {
       <li><a href="<?php echo $parentPrefix; ?>doc?implementation">Implementation</a><?php echo @$submenu_implementation; ?></li>
     </ul>
   </li>
+  <li><div>Apps</div>
+    <ul class="submenu">
+      <li><a href="<?php echo $rootPrefix; ?>editor/">Editor</a></li>
+      <li><a href="<?php echo $rootPrefix; ?>manager/">Manager</a></li>
+      <li><a href="<?php echo $rootPrefix; ?>catalog">Catalog</a></li>
+    </ul>
+  </li>
   <li><div>Development</div>
     <ul class="submenu">
       <li><a href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>

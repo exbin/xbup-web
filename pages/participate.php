@@ -16,7 +16,7 @@ If you are interested, read this page further to see how you can take a look on 
 <div class="level2">
 
 <p>
-You can browse and download source codes from GitHub repository: <a href="http://github.com/exbin" class="urlextern" title="http://github.com/exbin"  rel="nofollow">http://github.com/exbin</a>
+You can browse and download source codes from GitHub repository: <a href="http://github.com/exbin" class="urlextern" title="http://github.com/exbin" rel="nofollow">http://github.com/exbin</a>
 </p>
 
 </div>
@@ -27,14 +27,11 @@ You can browse and download source codes from GitHub repository: <a href="http:/
 <p>
 Following communication channels are available for developers:
 </p>
-<ul>
-<li class="level1"><div class="li"> Project&#039;s <abbr title="Internet Relay Chat">IRC</abbr> channel <a href="irc://irc.freenode.net/exbin" class="urlextern" title="irc://irc.freenode.net/exbin"  rel="nofollow">#exbin</a> on <a href="http://www.freenode.net" class="urlextern" title="http://www.freenode.net"  rel="nofollow">freenode.net</a> or alternative <a href="http://webchat.freenode.net/?channels=exbin" class="urlextern" title="http://webchat.freenode.net/?channels=exbin"  rel="nofollow">webchat</a></div>
-</li>
-<li class="level1"><div class="li"> <a href="http://sourceforge.net/p/xbup/discussion/" class="urlextern" title="http://sourceforge.net/p/xbup/discussion/"  rel="nofollow">Public forums</a> or <a href="http://sourceforge.net/p/xbup/mailman/" class="urlextern" title="http://sourceforge.net/p/xbup/mailman/"  rel="nofollow">mailing list</a> on <a href="http://www.sourceforge.net" class="urlextern" title="http://www.sourceforge.net"  rel="nofollow">sourceforge.net</a></div>
-</li>
-<li class="level1"><div class="li"> Follow <a href="http://twitter.com/xbup" class="urlextern" title="http://twitter.com/xbup"  rel="nofollow">#XBUP</a> on <a href="http://twitter.com" class="urlextern" title="http://twitter.com"  rel="nofollow">twitter.com</a></div>
-</li>
-</ul>
+
+<ul><li>Chat room: <a class="urlextern" href="https://matrix.to/#/!wlHpMzczmKXGHcznpx:matrix.org?via=matrix.org">XBUP room</a> on <a class="urlextern" href="https://riot.im">Riot.im</a></li>
+<li>Forum: <a class="urlextern" href="https://sourceforge.net/p/xbup/discussion/">Sourceforge.net discussion</a></li>
+<li>Mailing list: <a href="http://sourceforge.net/p/xbup/mailman/" class="urlextern" title="http://sourceforge.net/p/xbup/mailman/" rel="nofollow">Sourceforge.net mailing list</a></li> 
+<li>Contact: exbinproject@<span style="display:none">(at)</span>gmail.com</li></ul>
 
 </div>
 
@@ -45,17 +42,13 @@ Following communication channels are available for developers:
 If you want to contribute to this project, you should consider taking some of the following actions:
 </p>
 <ul>
-<li class="level1"><div class="li"> If you don&#039;t have it yet, <a href="https://sourceforge.net/account/registration/" class="urlextern" title="https://sourceforge.net/account/registration/"  rel="nofollow">register</a> your own SourceForge account</div>
+<li class="level1"><div class="li"> Discuss your interest on one of the communication channels listed above</div>
 </li>
-<li class="level1"><div class="li"> <a href="http://sourceforge.net/u/hajdam/profile/send_message" class="urlextern" title="http://sourceforge.net/u/hajdam/profile/send_message"  rel="nofollow">Send</a> a request to become member of the development team</div>
+<li class="level1"><div class="li"> Prepare your development environment</div>
 </li>
-<li class="level1"><div class="li"> <a href="https://sourceforge.net/forum/forum.php?thread_id=3338711&amp;forum_id=317000" class="urlextern" title="https://sourceforge.net/forum/forum.php?thread_id=3338711&amp;forum_id=317000"  rel="nofollow">Introduce yourself</a> to other members of the team (optional)</div>
+<li class="level1"><div class="li"> Download source codes and build it</div>
 </li>
-<li class="level1"><div class="li"> <a href="http://webchat.freenode.net/?channels=exbin" class="urlextern" title="http://webchat.freenode.net/?channels=exbin"  rel="nofollow">Discuss</a> on #exbin channel on freenode.net about what you would like to work on (optional)</div>
-</li>
-<li class="level1"><div class="li"> Choose task from <a href="http://it.exbin.org" class="urlextern" title="http://it.exbin.org"  rel="nofollow">Trac service</a> to work on (optional)</div>
-</li>
-<li class="level1"><div class="li"> Start working!</div>
+<li class="level1"><div class="li"> Choose a bug or feature to work on and prepare fix / pull request</div>
 </li>
 </ul>
 

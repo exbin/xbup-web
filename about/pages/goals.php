@@ -4,7 +4,7 @@
 <div class="level1">
 
 <p>
-<a href="../?videos" class="wikilink1">Video presentation</a> about project is recommended for the first time visitors.
+<a href="../?video" class="wikilink1">Video presentation</a> about project is recommended for the first time visitors.
 </p>
 
 <p>
