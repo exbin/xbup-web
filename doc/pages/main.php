@@ -35,10 +35,10 @@ Documentation is partial / work in progress. Documents are divided into several 
 </li>
 </ul>
 </li>
+<li class="level1"><div class="li"> <a href="?specification">Specification Overview</a></div>
+</li>
 <li class="level1"><div class="li"> <a href="?protocol">Protocol Specification</a> - Currently used specification of the XBUP protocol</div>
 <ul>
-<li class="level2"><div class="li"> <a href="?protocol/overview">Specification Overview</a></div>
-</li>
 <li class="level2"><div class="li"> <a href="?protocol/tree_structure">Level 0: Tree Structure</a></div>
 </li>
 <li class="level2"><div class="li"> <a href="?protocol/block_types">Level 1: Block Types</a></div>
@@ -89,9 +89,9 @@ Documentation is partial / work in progress. Documents are divided into several 
 </li>
 </ul>
 </li>
-<li class="level1"><div class="li"> <a href="?impl">Implementations</a> - List of available implementations</div>
+<li class="level1"><div class="li"> <a href="?implementation">Implementations</a> - List of available implementations</div>
 <ul>
-<li class="level2"><div class="li"> <a href="?impl/java">Java Implementation</a></div>
+<li class="level2"><div class="li"> <a href="?implementation/java">Java Implementation</a></div>
 </li>
 </ul>
 </li>

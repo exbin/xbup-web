@@ -1,4 +1,8 @@
 <div id="content">
+<?php
+include 'pages/protocol/_doc.php';
+showNavigation();
+?>
 <h1 class="sectionedit1" id="level_0tree_structure">Level 0: Tree Structure</h1>
 <div class="level1">
 

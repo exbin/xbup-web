@@ -1,4 +1,8 @@
 <div id="content">
+<?php
+include 'pages/protocol/_doc.php';
+showNavigation();
+?>
 <h1 class="sectionedit1" id="level_1remote_procedure_calling">Level 1: Remote Procedure Calling</h1>
 <div class="level1">
 

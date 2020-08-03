@@ -46,9 +46,9 @@ if (!empty($prefix)) {
   </li>
   <li><div>Apps</div>
     <ul class="submenu">
-      <li><a href="<?php echo $rootPrefix; ?>editor/">Editor</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>manager/">Manager</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>catalog">Catalog</a></li>
+      <li><a href="<?php echo $rootPrefix; ?>editor/">Editor</a><?php echo @$submenu_editor; ?></li>
+      <li><a href="<?php echo $rootPrefix; ?>manager/">Manager</a><?php echo @$submenu_manager; ?></li>
+      <li><a href="<?php echo $rootPrefix; ?>catalog">Catalog</a><?php echo @$submenu_catalog; ?></li>
     </ul>
   </li>
   <li><div>Development</div>

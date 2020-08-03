@@ -1,4 +1,8 @@
 <div id="content">
+<?php
+include 'pages/concept/_doc.php';
+showNavigation();
+?>
 <h1 id="type_system">Concept: Type System</h1>
 
 <div class="level1">

@@ -1,6 +1,9 @@
-<?php global $prefix, $submenu_about;
+<?php global $prefix, $submenu_manager;
 $prefix = '..';
-// $submenu_editor = '';
+$submenu_manager =
+'<ul><li><a href="?download"><del>Download</del></a></li>
+<li><a href="?manual"><del>Manual</del></a></li>
+<li><a href="?help"><del>Help</del></a></li></ul>';
 
 include('../header.php');
 $query = getenv('QUERY_STRING');

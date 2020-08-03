@@ -1,4 +1,8 @@
 <div id="content">
+<?php
+include 'pages/inc/doc.php';
+showNavigation();
+?>
 <h1 id="specification">Specification Overview</h1>
 <div class="level2">
 

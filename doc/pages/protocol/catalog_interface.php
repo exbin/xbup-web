@@ -1,4 +1,8 @@
 <div id="content">
+<?php
+include 'pages/protocol/_doc.php';
+showNavigation();
+?>
 <h1 class="sectionedit1" id="level_1catalog_interface">Level 1: Catalog Interface</h1>
 <div class="level1">
 

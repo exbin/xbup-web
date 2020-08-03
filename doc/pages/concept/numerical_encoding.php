@@ -1,4 +1,8 @@
 <div id="content">
+<?php
+include 'pages/concept/_doc.php';
+showNavigation();
+?>
 <h1 id="numerical_encoding">Concept: Numerical Encoding</h1>
 
 <div class="level1">

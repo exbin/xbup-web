@@ -1,6 +1,9 @@
 <div id="content">
 <h1>Donate</h1>
-<p>You can support project by donating some money to be used for project development.</p>
+
+<p>If you want to show your support, preferred way is to help with development, documentation or translations.</p>
+
+<p>But if you wish, you can donate some money, which shall be used for example for bounties for feature implementations.</p>
 
 <form action="https://www.paypal.com/cgi-bin/webscr" method="post" target="_top">
 <input type="hidden" name="cmd" value="_donations" />
@@ -12,7 +15,7 @@
 </form>
 
 <h2>Donations</h2>
-<p>List of donations:</p>
+<p>List of donations (till 2020-07):</p>
 
 </div>
 </body>

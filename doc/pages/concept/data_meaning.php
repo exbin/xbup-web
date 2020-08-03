@@ -1,4 +1,8 @@
 <div id="content">
+<?php
+include 'pages/concept/_doc.php';
+showNavigation();
+?>
 <h1 id="data_meaning">Concept: Data Meaning</h1>
 
 <div class="level1">

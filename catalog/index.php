@@ -1,8 +1,11 @@
-<?php global $prefix, $submenu_editor;
+<?php global $prefix, $submenu_catalog;
 $prefix = '..';
-$submenu_editor =
+$submenu_catalog =
 '<ul><li><a href="?download"><del>Download</del></a></li>
-<li><a href="?manual"><del>Manual</del></a></li></ul>';
+<li><a href="?manual"><del>Manual</del></a></li>
+<li><a class="urlextern" href="http://catalog.exbin.org/">Main Catalog</a></li>
+<li><a class="urlextern" href="http://catalog-php.exbin.org/">Main Catalog (PHP)</a></li>
+</ul>';
 
 include('../header.php');
 $query = getenv('QUERY_STRING');

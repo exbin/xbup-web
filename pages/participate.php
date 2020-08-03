@@ -1,33 +1,58 @@
 <div id="content">
-<h1 id="participate">Participate</h1>
-<p>There are various ways how you can contribute to this project:</p>
+<h1>Participate</h1>
 
-<p>Programmers: Primary programming language is Java. There are many tasks to work on. See for example <a href="?features">features list</a>.</p>
-<p>Help wanted post: <a class="urlextern" href="https://sourceforge.net/p/forge/helpwanted/programmers/thread/3067e2c4a0/">Sourceforge Programmers Wanted</a></p>
-<p>Documenters: Help write manual / documentation</p>
-<p>Testers: Test project and report issue on <a href="?source-codes">GitHub pages</a>.</p>
+<div class="level2">
+<p>
+This project is currently in early development stage with Java prototype implementation under development. See <a href="?status">project status</a>.
+</p>
 
-<h2 id="contact">Contact</h2>
+<p>
+If you are interested, read this page further to see how you can take a look on up-to-date source code or how to participate on development.
+</p>
 
-<ul><li>Chat room: <a class="urlextern" href="https://matrix.to/#/!MkfeTdJOiHgZDJnrQy:matrix.org?via=matrix.org">BinEd room</a> on <a class="urlextern" href="https://element.io">Element.io</a></li>
-<li>Forum: <a class="urlextern" href="https://sourceforge.net/p/bined/discussion/">Sourceforge.net discussion</a></li>
+</div>
+
+<h2 class="sectionedit2" id="source_codes">Source Codes</h2>
+<div class="level2">
+
+<p>
+You can browse and download source codes from GitHub repository: <a href="http://github.com/exbin" class="urlextern" title="http://github.com/exbin" rel="nofollow">http://github.com/exbin</a>
+</p>
+
+</div>
+
+<h2 class="sectionedit3" id="communication">Communication</h2>
+<div class="level2">
+
+<p>
+Following communication channels are available for developers:
+</p>
+
+<ul><li>Chat room: <a class="urlextern" href="https://matrix.to/#/!wlHpMzczmKXGHcznpx:matrix.org?via=matrix.org">XBUP room</a> on <a class="urlextern" href="https://element.io">Element.io</a></li>
+<li>Forum: <a class="urlextern" href="https://sourceforge.net/p/xbup/discussion/">Sourceforge.net discussion</a></li>
+<li>Mailing list: <a href="http://sourceforge.net/p/xbup/mailman/" class="urlextern" title="http://sourceforge.net/p/xbup/mailman/" rel="nofollow">Sourceforge.net mailing list</a></li> 
 <li>Contact: exbinproject@<span style="display:none">(at)</span>gmail.com</li></ul>
 
-<h2 id="development-plan">Current Development Plan</h2>
-<p>Plan for version 0.2.1 is to implement some of the following improvements:</p>
+</div>
+
+<h2 class="sectionedit4" id="getting_started_with_the_project">Getting Started With the Project</h2>
+<div class="level2">
+
+<p>
+If you want to contribute to this project, you should consider taking some of the following actions:
+</p>
 <ul>
-  <li>Add byte-to-byte binary diff</li>
-  <li>Add insert data action</li>
-  <li>Add bookmarking support</li>
-  <li>Allow filesystem swapping for memory handling</li>
-  <li>Add support for macro operations</li>
+<li class="level1"><div class="li"> Discuss your interest on one of the communication channels listed above</div>
+</li>
+<li class="level1"><div class="li"> Prepare your development environment</div>
+</li>
+<li class="level1"><div class="li"> Download source codes and build it</div>
+</li>
+<li class="level1"><div class="li"> Choose a bug or feature to work on and prepare fix / pull request</div>
+</li>
 </ul>
 
-<p>See <a href="?source-codes">list of source code repositories</a>.</p>
-
-<h2 id="videos">Videos</h2>
-<p>Videos from development</p>
-<p><del>There are some recordings here, if you are interested <a class="urlextern" href="https://www.livecoding.tv/hajdam/videos/">https://www.livecoding.tv/hajdam/videos/</a></del></p>
+</div>
 
 </div>
 </body>
