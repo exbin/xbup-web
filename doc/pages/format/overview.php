@@ -1,5 +1,9 @@
 <div id="content">
-<h1 class="sectionedit1" id="format_s_overview">Format&#039;s Overview</h1>
+<?php
+include 'pages/format/_doc.php';
+showNavigation();
+?>
+<h1 id="format_s_overview">Format&#039;s Overview</h1>
 <div class="level1">
 
 <p>

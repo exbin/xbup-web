@@ -1,6 +1,7 @@
 <?php
 include 'pages/inc/doc.php';
 
-$doc = array('protocol');
-$docText = array('Protocol');
+$doc = array(
+  array('link'=>'protocol','title'=>'Protocol')
+);
 ?>

@@ -1,6 +1,6 @@
 <?php
 $sub = array(
-  array('link'=>'development_steps','title'=>'Development Steps'),
+array('link'=>'development_steps','title'=>'Development Steps'),
   array('link'=>'numerical_encoding','title'=>'Numerical Encoding'),
   array('link'=>'data_structure','title'=>'Data Structure'),
   array('link'=>'type_system','title'=>'Type System'),
