@@ -69,6 +69,8 @@ Documentation is partial / work in progress. Documents are divided into several 
 <ul>
 <li class="level2"><div class="li"> <a href="?format/overview">Format&#039;s Overview</a></div>
 </li>
+<li class="level2"><div class="li"> <a href="?format/metodology">Constructions Metodology</a></div>
+</li>
 <li class="level2"><div class="li"> <a href="?format/visual">Visual Formats</a></div>
 </li>
 <li class="level2"><div class="li"> <a href="?format/audio">Audio Formats</a></div>
@@ -81,11 +83,9 @@ Documentation is partial / work in progress. Documents are divided into several 
 </li>
 <li class="level2"><div class="li"> <a href="?format/prog">Programming Data Formats</a></div>
 </li>
-<li class="level2"><div class="li"> <a href="?format/physic">Physical Data Formats</a></div>
+<li class="level2"><div class="li"> <a href="?format/physics">Physical Data Formats</a></div>
 </li>
-<li class="level2"><div class="li"> <a href="?format/society">Society Data Formats</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?format/rules">The Rules for Creating New Blocks</a></div>
+<li class="level2"><div class="li"> <a href="?format/social">Society Data Formats</a></div>
 </li>
 </ul>
 </li>

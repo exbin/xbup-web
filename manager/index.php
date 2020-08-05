@@ -1,4 +1,4 @@
-<?php global $prefix, $submenu_manager;
+<?php global $prefix;
 $prefix = '..';
 $submenu_manager =
 '<ul><li><a href="?download"><del>Download</del></a></li>

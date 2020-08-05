@@ -1,6 +1,7 @@
 <?php
 $sub = array(
   array('link'=>'overview','title'=>'Format&#039;s Overview'),
+  array('link'=>'metodology','title'=>'Constructions Metodology'),
   array('link'=>'visual','title'=>'Visual Formats'),
   array('link'=>'audio','title'=>'Audio Formats'),
   array('link'=>'meta','title'=>'Meta Data Formats'),
@@ -8,7 +9,6 @@ $sub = array(
   array('link'=>'math','title'=>'Mathematical Data Formats'),
   array('link'=>'prog','title'=>'Programming Data Formats'),
   array('link'=>'physics','title'=>'Physical Data Formats'),
-  array('link'=>'society','title'=>'Society Data Formats'),
-  array('link'=>'rules','title'=>'The Rules for Creating New Blocks')
+  array('link'=>'social','title'=>'Social Data Formats')
 );
 ?>

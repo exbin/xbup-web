@@ -1,10 +1,10 @@
-<?php global $prefix, $submenu_catalog;
+<?php global $prefix;
 $prefix = '..';
 $submenu_catalog =
 '<ul><li><a href="?download"><del>Download</del></a></li>
 <li><a href="?manual"><del>Manual</del></a></li>
 <li><a class="urlextern" href="http://catalog.exbin.org/">Main Catalog</a></li>
-<li><a class="urlextern" href="http://catalog-php.exbin.org/">Main Catalog (PHP)</a></li>
+<li><a class="urlextern" href="http://catalog-php.exbin.org/">Legacy Catalog (PHP)</a></li>
 </ul>';
 
 include('../header.php');

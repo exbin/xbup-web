@@ -1,16 +1,15 @@
 <?php global $prefix;
 $prefix = '..';
-$submenu_editor =
-'<ul><li><a href="?download"><del>Download</del></a></li>
-<li><a href="?manual"><del>Manual</del></a></li>
-<li><a href="?help"><del>Help</del></a></li></ul>';
+
+$query = getenv('QUERY_STRING');
+$submenu_concept = '
+<ul><li><a href="concept?test">Test</a></li></ul>';
 
 include('../header.php');
-$query = getenv('QUERY_STRING');
 if (empty($query)) {
   $include = 'pages/main.php';
 } else {
-  $target = 'pages/'.str_replace('/','_',$query).'.php';
+  $target = 'pages/'.$query.'.php';
   if (!(preg_match("/[a-z\/\_\-]+/", $query) === false) && file_exists($target)) {
     $include = $target;
   } else {

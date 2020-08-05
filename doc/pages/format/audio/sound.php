@@ -3,7 +3,7 @@
 include 'pages/format/audio/_doc.php';
 showNavigation();
 ?>
-<h1 id="sound">Format: Sound</h1>
+<h1 id="format">Format: Sound</h1>
 
 <div class="level1">
 
