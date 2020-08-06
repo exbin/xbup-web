@@ -1,6 +1,6 @@
 <div id="content">
 <?php
-include 'pages/concept/_doc.php';
+include 'pages/inc/doc.php';
 showNavigation();
 ?>
 <h1 id="data_meaning">Concept: Data Meaning</h1>

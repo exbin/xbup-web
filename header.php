@@ -55,7 +55,7 @@ if (!empty($prefix)) {
     <ul class="submenu">
       <li><a href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?status">Status</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>?concepts">Concepts</a><?php echo @$submenu_concept; ?></li>
+      <li><a href="<?php echo $rootPrefix; ?>concept">Concepts</a><?php echo @$submenu_concept; ?></li>
       <li><a href="<?php echo $rootPrefix; ?>?source-codes">Source Codes</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?donate">Donate</a></li>
     </ul>

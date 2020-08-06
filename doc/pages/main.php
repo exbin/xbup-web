@@ -11,30 +11,6 @@ Documentation is partial / work in progress. Documents are divided into several 
 <h2 class="sectionedit2" id="content">Content</h2>
 <div class="level2">
 <ul>
-<li class="level1"><div class="li"> <a href="?concept">Project Concepts</a> - Documentation of various issues and proposed concepts of project&#039;s characteristics</div>
-<ul>
-<li class="level2"><div class="li"> <a href="?concept/development_steps">Development Steps</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/numerical_encoding">Numerical Encoding</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/data_structure">Data Structure</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/type_system">Type System</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/parsing">Parsing</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/serialization">Serialization</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/central_catalog">Central Catalog</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/transformations">Transformations</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/constraints">Constraints</a></div>
-</li>
-<li class="level2"><div class="li"> <a href="?concept/data_meaning">Data Meaning</a></div>
-</li>
-</ul>
-</li>
 <li class="level1"><div class="li"> <a href="?specification">Specification Overview</a></div>
 </li>
 <li class="level1"><div class="li"> <a href="?protocol">Protocol Specification</a> - Currently used specification of the XBUP protocol</div>

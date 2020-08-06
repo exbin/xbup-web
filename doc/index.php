@@ -1,4 +1,4 @@
-<?php global $prefix, $submenu_about;
+<?php global $prefix;
 $prefix = '..';
 
 $query = getenv('QUERY_STRING');
