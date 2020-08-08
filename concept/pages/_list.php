@@ -9,6 +9,7 @@ array('link'=>'development_steps','title'=>'Development Steps'),
   array('link'=>'central_catalog','title'=>'Central Catalog'),
   array('link'=>'transformations','title'=>'Transformations'),
   array('link'=>'constraints','title'=>'Constraints'),
-  array('link'=>'data_meaning','title'=>'Data Meaning')
+  array('link'=>'data_meaning','title'=>'Data Meaning'),
+  array('link'=>'issue','title'=>'Issues')
 );
 ?>

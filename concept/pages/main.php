@@ -36,6 +36,10 @@
 </li>
 <li class="level1"><div class="li"> <a href="?data_meaning">Data Meaning</a></div>
 </li>
+<li class="level1"><div class="li"> <a href="?issue">Issues</a></div>
+</li>
+<li class="level1"><div class="li"> <a href="?formal">Protocol's Formalization</a></div>
+</li>
 </ul>
 </div>
 

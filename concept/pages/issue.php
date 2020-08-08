@@ -2,16 +2,16 @@
 <?php
 include 'pages/inc/list.php';
 
-include 'pages/implementation/_doc.php';
+include 'pages/_doc.php';
 showNavigation();
 ?>
-<h1 id="implementation">Implementation: Java</h1>
+<h1 id="issue">Issues</h1>
 
 <h2 class="sectionedit2" id="content">Content</h2>
 <div class="level2">
 <ul>
 <?php
-  showList('implementation/java');
+  showList('issue');
 ?>
 </ul>
 
