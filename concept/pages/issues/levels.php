@@ -2,10 +2,10 @@
 <?php
 include 'pages/inc/list.php';
 
-include 'pages/issue/_doc.php';
+include 'pages/issues/_doc.php';
 showNavigation();
 ?>
-<h1 id="issue">Issue: Proposed Characteristics</h1>
+<h1 id="issue">Issues: Proposed Characteristics</h1>
 
 <div class="level1">
 

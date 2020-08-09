@@ -5,13 +5,13 @@ include 'pages/inc/list.php';
 include 'pages/_doc.php';
 showNavigation();
 ?>
-<h1 id="formal">Protocol Formalisation</h1>
+<h1 id="subprojects">Subprojects</h1>
 
 <h2 class="sectionedit2" id="content">Content</h2>
 <div class="level2">
 <ul>
 <?php
-  showList('formal');
+  showList('project');
 ?>
 </ul>
 

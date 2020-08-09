@@ -2,8 +2,8 @@
 $prefix = '..';
 
 $query = getenv('QUERY_STRING');
-$submenu_concept = '
-<ul><li><a href="concept?test">Test</a></li></ul>';
+//$submenu_concept = '
+//<ul><li><a href="?test">Test</a></li></ul>';
 
 include('../header.php');
 if (empty($query)) {
