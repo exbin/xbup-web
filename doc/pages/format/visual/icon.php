@@ -8,16 +8,7 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of the eXtensible Binary Universal Protocol project documentation. It describes development of the format for image icons.
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="description">Description</h2>
-<div class="level2">
-
-<p>
-The term is taken to mean the icon image as to be used in different resolutions and color depths of the screen, also with the possibility of overlap, or with animation. The icon can then be both bitmap and vector image.
+Image icons are visual images to identify various entities or actions. The term is taken to mean the icon image as to be used in different resolutions and color depths of the screen, also with the possibility of overlap, or with animation. The icon can then be both bitmap and vector image.
 </p>
 
 <p>

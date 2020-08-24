@@ -49,7 +49,7 @@ Another related area is about property rights, or authorized use of the product.
 </p>
 
 <p>
-Related parts <a href="?wiki/doc/format/society/person" class="wikilink1" title="en:doc:format:society:person">Personal Information</a>, <a href="?wiki/doc/format/physic/condition" class="wikilink2" title="en:doc:format:physic:condition" rel="nofollow">Conditions</a>, <a href="?wiki/doc/format/misc/tools" class="wikilink2" title="en:doc:format:misc:tools" rel="nofollow">Used Tools</a>.
+Related parts <a href="?format/society/person" class="wikilink1">Personal Information</a>, <a href="?format/physic/condition" class="wikilink2" rel="nofollow">Conditions</a>, <a href="?format/misc/tools" class="wikilink2" rel="nofollow">Used Tools</a>.
 </p>
 
 </div>

@@ -247,7 +247,7 @@ There are few subpackages covering various serialization methods:
 <div class="level2">
 
 <p>
-<img src="/old/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>

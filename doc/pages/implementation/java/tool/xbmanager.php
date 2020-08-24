@@ -34,7 +34,7 @@ Application allows to connect to the framework service running on local or remot
 </p>
 
 <p>
-<img src="/old/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>

@@ -7,14 +7,7 @@ showNavigation();
 
 <div class="level1">
 
-<p>
-This document is part of project documentation eXtensible Binary Universal Protocol. It contains …
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
+<p>Format to cover various programming methods.</p>
 
 </div>
 

@@ -7,16 +7,9 @@ showNavigation();
 
 <div class="level1">
 
-<div class="level1">
-
 <p>
-This document is part of eXtensible Binary Universal Protocol project documentation. It contains description of storage formats for mathematical graphs in XBUP protocol.
+Storage formats for mathematical graphs in XBUP protocol.
 </p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
 
 <p>
 Allocated catalog indexes:

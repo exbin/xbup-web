@@ -8,13 +8,8 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of eXtensible Binary Universal Protocol project documentation. It contains description of storage formats for mathematical grammars, automata and others grammar related data in XBUP protocol.
+Storage formats for mathematical grammars, automata and others grammar related data in XBUP protocol.
 </p>
-
-</div>
-
-<h2 class="sectionedit2" id="grammars">Grammars</h2>
-<div class="level2">
 
 <p>
 This group is used to define blocks of <a href="#links" title="en:doc:format:math:grammar ↵" class="wikilink1">mathematical grammar</a>. Grammar is a quadruple (N, Σ, P, S) where:

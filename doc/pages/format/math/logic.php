@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of eXtensible Binary Universal Protocol project documentation. It contains…
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="description">Description</h2>
-<div class="level2">
-
-<p>
 Logic is the starting building block for other mathematical structures in XBUP protocol.
 </p>
 

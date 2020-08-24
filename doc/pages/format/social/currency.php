@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of project documentation eXtensible Binary Universal Protocol. It contains …
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
-
-<p>
 These blocks are used to indicate amounts in financial operations. These amounts are necessary to provide data in forms suitable for processing on the computer, which is very often an integer with a fixed shape by moving ordinary places. This issue addresses the transformations that there will be described later.
 </p>
 

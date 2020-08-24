@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of project documentation eXtensible Binary Universal Protocol. It contains …
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
-
-<p>
 Blocks of physical drives can store data routine physical data in commonly used standardized units and even in its less common national alternatives. The aim is to achieve transparent transformation where possible and to ensure equivalence with the same values ​​used by another unit.
 </p>
 
@@ -82,7 +73,7 @@ Besides the basic time unit second it is appropriate to allow representation in 
 <div class="level4">
 
 <p>
-This block can represent an infinitely short time event For saving time data can be used several forms of storage time and date, such as <a href="?wiki/doc/format/physic/about/blank" class="wikilink2" title="en:doc:format:physic:about:blank" rel="nofollow">GMT</a>, or <a href="?wiki/doc/format/physic/about/blank" class="wikilink2" title="en:doc:format:physic:about:blank" rel="nofollow">Timestamp</a>.
+This block can represent an infinitely short time event For saving time data can be used several forms of storage time and date, such as <a href="?format/physic/overview" class="wikilink2" rel="nofollow">GMT</a>, or <a href="?format/physic/overview" class="wikilink2" rel="nofollow">Timestamp</a>.
 </p>
 
 <p>
@@ -97,8 +88,8 @@ Variable TimeType should determine any of such types:
 </p>
 
 <p>
-<a href="?wiki/doc/format/physic/about/blank" class="wikilink2" title="en:doc:format:physic:about:blank" rel="nofollow">Timestamp</a>, <a href="?wiki/doc/format/physic/about/blank" class="wikilink2" title="en:doc:format:physic:about:blank" rel="nofollow">GMT</a>,
-<a href="?wiki/doc/format/physic/about/blank" class="wikilink2" title="en:doc:format:physic:about:blank" rel="nofollow">DOSTime</a><br/>
+<a href="?format/physics/overview" class="wikilink2" rel="nofollow">Timestamp</a>, <a href="?format/physics/overview" class="wikilink2" rel="nofollow">GMT</a>,
+<a href="?format/physics/overview" class="wikilink2" rel="nofollow">DOSTime</a><br/>
 
 </p>
 
@@ -162,7 +153,7 @@ It&#039;s possible to store time in multiple types of units, be it second, or fo
 </p>
 
 <p>
-Time based on currently most accurate widely used <a href="?wiki/doc/format/physic/about/blank" class="wikilink2" title="en:doc:format:physic:about:blank" rel="nofollow">atomic time clock</a> using frequency of emissions during change of Caesium atom state.
+Time based on currently most accurate widely used <a href="?format/physics/overview" class="wikilink2" rel="nofollow">atomic time clock</a> using frequency of emissions during change of Caesium atom state.
 </p>
 
 <p>

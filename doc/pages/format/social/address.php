@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of project documentation eXtensible Binary Universal Protocol. It contains …
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
-
-<p>
 Unlike the mathematical determination of the position at issue in this case to determine the position of people using the specified name. Among the blocks belonging to this group are mainly naming and address areas that are obviously dependent on time.
 </p>
 

@@ -2,7 +2,7 @@
 $prefix = '..';
 $submenu_about =
 '<ul><li><a href="?motivation">Motivation</a></li>
-<li><a href="?goals">Project Goals</a></li>
+<li><a href="?objectives">Project Objectives</a></li>
 <li><a href="?features">Features</a></li>
 </ul>';
 

@@ -58,7 +58,7 @@ Classes providing conversion to basic / token parsing:
 <div class="level3">
 
 <p>
-<img src="/old/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>

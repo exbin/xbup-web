@@ -8,16 +8,7 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of eXtensible Binary Universal Protocol project documentation. It contains description of format for storing subtitles and karaoke.
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="description">Description</h2>
-<div class="level2">
-
-<p>
-This format should provide way how to store text and probably other types of visual data as for presentation or multimedia running in time.
+Format for storing subtitles and karaoke. This format should provide way how to store text and probably other types of visual data as for presentation or multimedia running in time.
 </p>
 
 </div>

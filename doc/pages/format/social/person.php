@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of project documentation eXtensible Binary Universal Protocol. It contains …
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
-
-<p>
 Identity of the person is quite problematic, because the person does not exist in international conditions unique code. Not only that there are people with the same name but with the same birth date, etc.. These blocks are trying to identify a person by their personals. For a more detailed identification will be available later electronic signature.
 </p>
 

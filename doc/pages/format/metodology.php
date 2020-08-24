@@ -7,15 +7,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of project documentation eXtensible Binary Universal Protocol. It contains restrictive conditions that should be met when creating custom blocks in the XBUP protocol.
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
-
-<p>
 When creating data formats it is necessary to keep certain design rules to achieve the best possible outcome. These rules will be gradually formed by experience, so as to simplify as much as upwards of new format, minimizing the number of errors made in the design and to achieve the most appropriate shape of the block, the order and number of attributes.
 </p>
 

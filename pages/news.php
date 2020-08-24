@@ -3,8 +3,12 @@
   echo '<p><h3 style="color: red; background-color: yellow;">This project is abandoned - author of this project is either dead or very long not updating</h3></p>';
 } ?>
 <p>The Extensible Binary Universal Protocol (XBUP) is a prototype of general purpose multi-layer binary data protocol and file format with primary focus on abstraction and data transformation.</p>
+
+<ul><li><strong>Unified block-tree structure</strong> - Minimalist tree structure based on integer and binary blob only</li>
+<li><strong>Build-in and custom data types</strong> - Support for data type definitions and catalog of types</li>
+<li><strong>Transformation framework</strong> - Automatic and manual data conversions and compatibility handling</li></ul>
+
 <p>This is part of the <a href="http://exbin.org">ExBin Project</a>.</p>
-<p style="color: red; background: yellow; font-size: 1.3em;"><strong>Website is under development!</strong> - See. <a href="old/">previous version</a> for full content for now.</p>
 
 <h2 id="latest_comment">Latest User Comment</h2>
 <?php

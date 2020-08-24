@@ -8,16 +8,7 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of eXtensible Binary Universal Protocol project documentation. It contains description of storage formats for mathematical automata in XBUP protocol.
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
-
-<p>
-Mathematical, or state machines (FSM - Finite State Machine) are theoretical models of computation systems that generates the language of words based on the certain alphabet.
+Storage formats for mathematical automata in XBUP protocol. Mathematical, or state machines (FSM - Finite State Machine) are theoretical models of computation systems that generates the language of words based on the certain alphabet.
 </p>
 
 <p>

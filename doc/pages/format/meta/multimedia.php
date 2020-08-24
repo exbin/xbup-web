@@ -8,7 +8,7 @@ showNavigation();
 <div class="level1">
 
 <p>
-Multimedia container is used for creating multimedia files and streams combining multiple types of sensory inputs, especially visual (<a href="?wiki/doc/format/visual/video" class="wikilink1" title="en:doc:format:visual:video">video</a>) and audio (<a href="?wiki/doc/format/audio/sound" class="wikilink1" title="en:doc:format:audio:sound">audio</a>). XBUP protocol generally allows any combination of data, so it is appropriate to define the term container differently. Container is here meant primarily for non-interactive presentations.
+Multimedia container is used for creating multimedia files and streams combining multiple types of sensory inputs, especially visual (<a href="?format/visual/video" class="wikilink1">video</a>) and audio (<a href="?format/audio/sound" class="wikilink1">audio</a>). XBUP protocol generally allows any combination of data, so it is appropriate to define the term container differently. Container is here meant primarily for non-interactive presentations.
 </p>
 
 <p>

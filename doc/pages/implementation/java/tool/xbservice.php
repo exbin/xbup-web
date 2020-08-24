@@ -37,7 +37,7 @@ Service can provide following functions:
 </ul>
 
 <p>
-<img src="/old/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>
@@ -50,7 +50,7 @@ Application acts as a remote service call service by the general interface of th
 </p>
 
 <p>
-<img src="/old/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>

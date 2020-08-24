@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of the eXtensible Binary Universal Protocol project documentation. It contains description of the prototype format for video streams.
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="description">Description</h2>
-<div class="level2">
-
-<p>
 Video concept is understood in this document as a sequence of images with fixed order (non-interactive animation), so the technical limitations on the number of frames per unit of time are not considered here. In addition to the image sequencing there will be primarily the expression of the transcoding of the existing binary codecs.
 </p>
 

@@ -8,13 +8,8 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of eXtensible Binary Universal Protocol project documentation. It contains description of storage formats for numerical data in XBUP protocol.
+Storage formats for numerical data in XBUP protocol.
 </p>
-
-</div>
-
-<h2 class="sectionedit2" id="description">Description</h2>
-<div class="level2">
 
 <p>
 The following types are used to express the numeric values of usual types such as integers, real numbers and so on. These values can be expressed in several forms, mainly in the form of an attribute or a data block with a tightly defined range of values. Attribute blocks are also used in other blocks for the definition of attributes.

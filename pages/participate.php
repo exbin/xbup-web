@@ -52,6 +52,10 @@ If you want to contribute to this project, you should consider taking some of th
 </li>
 </ul>
 
+<p>
+List of <a href="?members">team members</a>.
+</p>
+
 </div>
 
 </div>

@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of project documentation eXtensible Binary Universal Protocol. Includes description language blocks.
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="introduction">Introduction</h2>
-<div class="level2">
-
-<p>
 Language blocks allows to represent the data associated with spoken and written language, symbolic expression of the meaning of words and categorization. Later it could be part of a universal language and definition of its meaning and usage.
 </p>
 

@@ -11,7 +11,7 @@ Specification for Remote Procedure Calling (RPC) specify interface for service p
 </p>
 
 <p>
-Protocol for remote procedure calls defines the way how to transmit parameters for remote procedure calls and how to return results. The goal is to provide a foundation for XBUP-based communication protocol built as an alternative to protocols like <a href="#links" title="en:doc:protocol:rpc ↵" class="wikilink1">HTTP</a>, <a href="#links" title="en:doc:protocol:rpc ↵" class="wikilink1">XML-RPC</a>, <a href="#links" title="en:doc:protocol:rpc ↵" class="wikilink1">WSDL</a> and more.
+Protocol for remote procedure calls defines the way how to transmit parameters for remote procedure calls and how to return results. The goal is to provide a foundation for XBUP-based communication protocol built as an alternative to protocols like <a href="#links" class="wikilink1">HTTP</a>, <a href="#links" class="wikilink1">XML-RPC</a>, <a href="#links" class="wikilink1">WSDL</a> and more.
 </p>
 
 </div>

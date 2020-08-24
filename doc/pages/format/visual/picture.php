@@ -8,15 +8,6 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of the eXtensible Binary Universal Protocol project documentation. It contains description of the bitmap data.
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="description">Description</h2>
-<div class="level2">
-
-<p>
 Image data in the form of a bitmap image is one of the data traditionally stored using binary formats. The bitmap is usually two-dimensional array of pixels that determine the color values for each square or rectangular area. 
 </p>
 

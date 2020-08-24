@@ -8,16 +8,7 @@ showNavigation();
 <div class="level1">
 
 <p>
-This document is part of eXtensible Binary Universal Protocol project documentation. It contains description of format for storing simple unformatted text
-</p>
-
-</div>
-
-<h2 class="sectionedit2" id="description">Description</h2>
-<div class="level2">
-
-<p>
-Text is one of the very widely used data formats. Also sequence of characters in the <abbr title="American Standard Code for Information Interchange">ASCII</abbr> and the other became the foundation of many advanced formats.
+Format for storing simple unformatted text. Text is one of the very widely used data formats. Also sequence of characters in the <abbr title="American Standard Code for Information Interchange">ASCII</abbr> and the other became the foundation of many advanced formats.
 </p>
 
 </div>

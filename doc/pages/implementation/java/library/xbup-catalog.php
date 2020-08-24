@@ -30,7 +30,7 @@ Implementation has following properties:
 </ul>
 
 <p>
-<a href="?wiki/doc/protocol/catalog" class="wikilink2" title="en:doc:protocol:catalog" rel="nofollow">See more information about catalog.</a>
+<a href="?protocol/catalog_interface" class="wikilink2" rel="nofollow">See more information about catalog.</a>
 </p>
 
 </div>
@@ -112,7 +112,7 @@ Some of the operations are:
 </ul>
 
 <p>
-<img src="/old/dokuwiki/lib/images/smileys/fixme.gif" class="icon" alt="FIXME" />
+<img src="../images/smileys/fixme.gif" class="icon" alt="FIXME" />
 </p>
 
 </div>
