@@ -47,14 +47,11 @@ if ($count == 0) {
 <p>See <a href="?comments">more comments</a>. Add <a href="?add-comment">new comment</a>.</p>
 
 <h2 id="news">Latest News</h2>
-<div class="news-title">XBUP Full Package 0.2.0 released (20th January 2017)</div>
-<div class="news"><img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added basic command parser<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Replaced hexadecimal editor library<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Sources split into multiple repositories<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Modified gradle building for dependency autoloading<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Database switched from MySQL to MariaDB<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added checking for updates<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Modified some icons</div>
+<div class="news-title">XBUP Full Package 0.2.1 released (28th September 2020)</div>
+<div class="news"><img src="images/news/minus.gif" title="Added" alt="[-]" class="news-icon"/> Extended area renamed to tail data<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Catalog update format changed to XBUP<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Replaced catalog UI components support<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added properties view</div>
 
 <p>See list of <a href="?older-news">older news</a>.</p>
 </div>

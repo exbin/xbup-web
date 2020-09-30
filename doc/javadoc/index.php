@@ -12,6 +12,14 @@ include '../../refer.php';
 
 <ul>
 
+<li>Version 0.2.1
+<ul>
+<li><a href="xbup-core-0.2.1/">xbup-core</a></li>
+<li><a href="xbup-catalog-0.2.1/">xbup-catalog</a></li>
+<li><a href="xbup-parser-tree-0.2.1/">xbup-parser-tree</a></li>
+</ul>
+</li>
+
 <li>Version 0.1.25
 <ul>
 <li><a href="xbup-core-0.1.25/">xbup-core</a></li>

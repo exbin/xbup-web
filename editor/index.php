@@ -2,7 +2,7 @@
 $prefix = '..';
 $submenu_editor =
 '<ul><li><a href="?download"><del>Download</del></a></li>
-<li><a href="?manual"><del>Manual</del></a></li>
+<li><a href="?manual">Manual</a></li>
 <li><a href="?help"><del>Help</del></a></li></ul>';
 
 include('../header.php');

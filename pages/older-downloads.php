@@ -6,6 +6,11 @@
 Installation package for 32bit Windows <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.0-win32.exe?download">[EXE]</a><br/>
 ZIP Archive <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.0.zip?download">[ZIP]</a><br/><br/>
 
+<strong>Download: Release 0.2.0 (2017-01-20)</strong><br/><br/>
+- Full Package<br/>
+Installation package for 32bit Windows <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.0-win32.exe?download">[EXE]</a><br/>
+ZIP Archive <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.0.zip?download">[ZIP]</a><br/><br/>
+
 <strong>Download: Work release 25 (2015-09-15)</strong><br/><br/>
 - Full Package<br/>
 Installation package for 32bit Windows <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.1.25-win32.exe?download">[EXE]</a><br/>

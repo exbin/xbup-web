@@ -2,6 +2,17 @@
 <h1 id="older_news">Older News</h1>
 
 <p>
+<div class="news-title">Work release 0.2.0 released (20th January 2017)</div>
+<div class="news"><img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added basic command parser<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Replaced hexadecimal editor library<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Sources split into multiple repositories<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Modified gradle building for dependency autoloading<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Database switched from MySQL to MariaDB<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added checking for updates<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Modified some icons</div>
+</p>
+
+<p>
 <div class="news-title">Work release 0.1.25 released (15th September 2015)</div>
 <div class="news"><img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> XBEditor: Added undo manager with commands / operations<br/>
 <img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> XBService: Converted RPC networking to use serialization<br/>

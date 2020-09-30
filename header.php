@@ -48,14 +48,14 @@ if (!empty($prefix)) {
     <ul class="submenu">
       <li><a href="<?php echo $rootPrefix; ?>editor/">Editor</a><?php echo @$submenu_editor; ?></li>
       <li><a href="<?php echo $rootPrefix; ?>manager/">Manager</a><?php echo @$submenu_manager; ?></li>
-      <li><a href="<?php echo $rootPrefix; ?>catalog">Catalog</a><?php echo @$submenu_catalog; ?></li>
+      <li><a href="<?php echo $rootPrefix; ?>catalog/">Catalog</a><?php echo @$submenu_catalog; ?></li>
     </ul>
   </li>
   <li><div>Development</div>
     <ul class="submenu">
       <li><a href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?status">Status</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>concept">Concepts</a><?php echo @$submenu_concept; ?></li>
+      <li><a href="<?php echo $rootPrefix; ?>concept/">Concepts</a><?php echo @$submenu_concept; ?></li>
       <li><a href="<?php echo $rootPrefix; ?>?source-codes">Source Codes</a></li>
       <li><a href="<?php echo $rootPrefix; ?>?donate">Donate</a></li>
     </ul>

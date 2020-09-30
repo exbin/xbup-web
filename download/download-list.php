@@ -3,10 +3,10 @@
     $result = array();
     if ($group == 'xbup' || is_null($group)) {
       $variants = array();
-      $stb_ver = '0.2.0';
-      $stb_date = '2017-01-20';
+      $stb_ver = '0.2.1';
+      $stb_date = '2020-09-28';
       $dev_ver = '0.2.1';
-      $dev_date = '2020-07-27';
+      $dev_date = '2020-09-24';
 
       $variants['stb'][0]['name'] = 'Windows Installer';
       $variants['stb'][0]['ver'] = $stb_ver;
@@ -21,7 +21,7 @@
 
       $variants['dev'][0]['name'] = 'Windows Installer';
       $variants['dev'][0]['ver'] = $dev_ver;
-      $variants['dev'][0]['date'] = $dev_date;
+      $variants['dev'][0]['date'] = '2020-09-16';
       $variants['dev'][0]['icon'] = 'exe';
       $variants['dev'][0]['file'] = 'xbup_full-'.$dev_ver.'-SNAPSHOT-win32.exe';
       $variants['dev'][1]['name'] = 'ZIP';

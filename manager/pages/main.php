@@ -3,7 +3,7 @@
 
 <p>Experimental graphical manager for XBUP execution node.</p>
 
-<img src="images/xbmanager-0.2.0.png" alt="[XBManager screenshot]" width="644" height="560" class="center"/>
+<img src="images/xbmanager-0.2.1.png" alt="[XBManager screenshot]" width="681" height="526" class="center"/>
 
 <p>This application is used for prove-of-concept testing of XBUP protocol and is generally not production ready.</p>
 
