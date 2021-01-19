@@ -5,7 +5,7 @@
 <a href="../?video" class="wikilink1">Video presentation</a> about project is recommended for the first time visitors.
 </p>
 
-<p>The Extensible Binary Universal Protocol (XBUP) is a prototype of general purpose multi-layer binary data protocol and file format with primary focus on abstraction and data transformation.</p>
+<p>The Extensible Binary Universal Protocol (XBUP) is prototype of general purpose multi-layer binary data protocol and file format with primary focus on abstraction and data transformation.</p>
 
 <p>Key features:
 
