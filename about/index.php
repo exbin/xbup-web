@@ -3,7 +3,7 @@ $prefix = '..';
 $submenu_about =
 '<ul><li><a href="?motivation">Motivation</a></li>
 <li><a href="?objectives">Project Objectives</a></li>
-<li><a href="?features">Features</a></li>
+<li><a class="urldecor" style="background-image: url(\''.$parentPrefix.'../images/menu/features.png\');" href="?features">Features</a></li>
 </ul>';
 
 include('../header.php');

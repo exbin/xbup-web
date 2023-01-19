@@ -30,11 +30,11 @@ if (!empty($prefix)) {
 <ul id="navmenu">
   <li><div>Project</div>
     <ul class="submenu">
-    <li><a href="<?php echo $rootPrefix; ?>?news">News</a></li>
-    <li><a href="<?php echo $rootPrefix; ?>about">About</a><?php echo @$submenu_about; ?></li>
-    <li><a href="<?php echo $rootPrefix; ?>?screenshots">Screenshots</a></li>
-    <li><a href="<?php echo $rootPrefix; ?>?video">Video Presentations</a></li>
-    <li><a href="<?php echo $rootPrefix; ?>?downloads">Downloads</a></li>
+    <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/about.png');" href="<?php echo $rootPrefix; ?>about">About</a><?php echo @$submenu_about; ?></li>
+    <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/news.png');" href="<?php echo $rootPrefix; ?>?news">News</a></li>
+    <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/screenshots.png');" href="<?php echo $rootPrefix; ?>?screenshots">Screenshots</a></li>
+    <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/film.png');" href="<?php echo $rootPrefix; ?>?video">Video Presentations</a></li>
+    <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/download.png');" href="<?php echo $rootPrefix; ?>?downloads">Downloads</a></li>
     </ul>
   </li>
   <li><div>Documentation</div>
@@ -53,20 +53,18 @@ if (!empty($prefix)) {
   </li>
   <li><div>Development</div>
     <ul class="submenu">
-      <li><a href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>?status">Status</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>concept/">Concepts</a><?php echo @$submenu_concept; ?></li>
-      <li><a href="<?php echo $rootPrefix; ?>?source-codes">Source Codes</a></li>
-      <li><a href="<?php echo $rootPrefix; ?>?donate">Donate</a></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/wrench_orange.png');" href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/features.png');" href="<?php echo $rootPrefix; ?>?status">Status</a></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/lightning.png');" href="<?php echo $rootPrefix; ?>concept/">Concepts</a><?php echo @$submenu_concept; ?></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/source-code.png');" href="<?php echo $rootPrefix; ?>?source-codes">Source Codes</a></li>
     </ul>
   </li>
   <li><div>Social</div>
     <ul class="submenu">
-      <li><a href="<?php echo $rootPrefix; ?>?comments">User Comments</a></li>
-      <li><a class="urlextern" href="https://github.com/exbin/">GitHub</a></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/comment.png');" href="<?php echo $rootPrefix; ?>?comments">User Comments</a></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/ref/github.png');" href="https://github.com/exbin/">GitHub</a></li>
       <li><a class="urlextern" href="https://sourceforge.net/projects/xbup/">SourceForge</a></li>
       <li><a class="urlextern" href="https://www.openhub.net/p/xbup/">OpenHub</a></li>
-      <li><a class="urlextern" href="https://twitter.com/exbinproject/">Twitter</a></li>
     </ul>
   </li>
 </ul>

@@ -244,6 +244,14 @@ div#content {
     padding-left: 18px;
 }
 
+.urldecor {
+    background-repeat: no-repeat;
+    background-position: 0px 50%;
+    background-position-x: 0px;
+    background-position-y: 50%;
+    padding-left: 21px;
+}
+
 .table {
     font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
     border-collapse: collapse;
