@@ -46,14 +46,14 @@ if (!empty($prefix)) {
   </li>
   <li><div>Apps</div>
     <ul class="submenu">
-      <li><a href="<?php echo $rootPrefix; ?>editor/">Editor</a><?php echo @$submenu_editor; ?></li>
-      <li><a href="<?php echo $rootPrefix; ?>manager/">Manager</a><?php echo @$submenu_manager; ?></li>
-      <li><a href="<?php echo $rootPrefix; ?>catalog/">Catalog</a><?php echo @$submenu_catalog; ?></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/pencil.png');" href="<?php echo $rootPrefix; ?>editor/">Editor</a><?php echo @$submenu_editor; ?></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/cog.png');" href="<?php echo $rootPrefix; ?>manager/">Manager</a><?php echo @$submenu_manager; ?></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/table-multiple.png');" href="<?php echo $rootPrefix; ?>catalog/">Catalog</a><?php echo @$submenu_catalog; ?></li>
     </ul>
   </li>
   <li><div>Development</div>
     <ul class="submenu">
-      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/wrench_orange.png');" href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
+      <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/group.png');" href="<?php echo $rootPrefix; ?>?participate">Participate</a></li>
       <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/features.png');" href="<?php echo $rootPrefix; ?>?status">Status</a></li>
       <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/lightning.png');" href="<?php echo $rootPrefix; ?>concept/">Concepts</a><?php echo @$submenu_concept; ?></li>
       <li><a class="urldecor" style="background-image: url('<?php echo $parentPrefix; ?>images/menu/source-code.png');" href="<?php echo $rootPrefix; ?>?source-codes">Source Codes</a></li>
