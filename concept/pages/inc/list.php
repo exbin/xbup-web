@@ -4,7 +4,7 @@ function showList($path) {
 
   foreach ($sub as $key => $value) {
     echo '<li class="level2"><div class="li"> <a href="?'.$path.'/'.$value['link'].'"';
-    if ($value['broken']) echo ' class="invalid-link" rel="nofollow"';
+    if (@$value['broken']) echo ' class="invalid-link" rel="nofollow"';
     echo '>'.$value['title'].'</a></div></li>'."\n";
   }
 }

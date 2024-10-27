@@ -10,50 +10,15 @@
 
 <p>This is part of the <a href="http://exbin.org">ExBin Project</a>.</p>
 
-<h2 id="latest_comment">Latest User Comment</h2>
-<?php
-function getline($fl) {
-  $fp = @fgets($fl, 65536);
-  $fp = substr($fp, 0, strlen($fp) - 1);
-  return $fp;
-}
-
-$perpage = 10;
-$count_file = fopen('pages/comments/count.txt', 'r');
-$count = (int) getline($count_file);
-fclose($count_file);
-
-if ($count == 0) {
-  echo '<p>There are no comments yet.</p>';
-} else {
-  $file = fopen('pages/comments/'.$count.'.txt', 'r');
-  $time = getline($file);
-  $author = getline($file);
-  $comment = '';
-  while (!feof($file)) {
-  	  if ($comment != '') {
-  	  	  $comment .= "<br/>";
-  	  }
-   	  $comment .= getline($file);
-  }
-  fclose($file);
-      
-  echo '<ul><li>';
-  echo '<p>Comment from: <strong>'.$author.'</strong> on '.date('l jS \of F Y h:i:s A', $time).'</p>';
-  echo '<p>'.$comment.'</p>';
-  echo "</li></ul>\n";
-}
-?>
-<p>See <a href="?comments">more comments</a>. Add <a href="?add-comment">new comment</a>.</p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/pp1hwHE5kaE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <h2 id="news">Latest News</h2>
-<div class="news-title">XBUP Full Package 0.2.1 released (28th September 2020)</div>
-<div class="news"><img src="images/news/minus.gif" title="Added" alt="[-]" class="news-icon"/> Extended area renamed to tail data<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Catalog update format changed to XBUP<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Replaced catalog UI components support<br/>
-<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added properties view</div>
+<div class="news-title">XBUP Full Package 0.2.2 released (2024-01-22)</div>
+<div class="news"><img src="images/news/basic.gif" title="Info" alt="[I]" class="news-icon"/> Reworked editor to inview editing<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Support for multiple files as tabs<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Support for multiple catalogs (root)</div>
 
-<p>See list of <a href="?older-news">older news</a>.</p>
+<p>See list of <a href="?p=older-news">older news</a>.</p>
 </div>
 </body>
 </html>

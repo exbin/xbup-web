@@ -13,7 +13,7 @@
 </ul>
 
 <p>
-<a href="?motivation">More details about what is project trying to achieve</a>
+<a href="?p=motivation">More details about what is project trying to achieve</a>
 </p>
 
 <h2 id="protocol_design">Protocol Design</h2>
@@ -32,7 +32,7 @@ Protocol design should cover following areas:
 </ul>
 
 <p>
-<a href="../doc/?protocol">More details about protocol&#039;s design</a>
+<a href="../doc/?p=protocol">More details about protocol&#039;s design</a>
 </p>
 
 </div>
@@ -57,7 +57,7 @@ Free and open source prototype implementation in Java is currently underway. It 
 </ul>
 
 <p>
-<a href="../doc/?implementation">More details about prototype implementation</a>
+<a href="../doc/?p=implementation">More details about prototype implementation</a>
 </p>
 
 <h2 id="more">More</h2>
@@ -65,8 +65,8 @@ Free and open source prototype implementation in Java is currently underway. It 
 <p>You can learn more about this project by reading following sections:</p>
 
 <ul>
-<li><a href="?use_cases">Use Cases</a></li>
-<li><a href="?project_scope">Scope</a></li>
+<li><a href="?p=use_cases">Use Cases</a></li>
+<li><a href="?p=project_scope">Scope</a></li>
 </ul>
 
 </div>

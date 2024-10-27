@@ -2,6 +2,14 @@
 <h1 id="older_news">Older News</h1>
 
 <p>
+<div class="news-title">XBUP Full Package 0.2.1 released (28th September 2020)</div>
+<div class="news"><img src="images/news/minus.gif" title="Added" alt="[-]" class="news-icon"/> Extended area renamed to tail data<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Catalog update format changed to XBUP<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Replaced catalog UI components support<br/>
+<img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added properties view</div>
+</p>
+
+<p>
 <div class="news-title">Work release 0.2.0 released (20th January 2017)</div>
 <div class="news"><img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Added basic command parser<br/>
 <img src="images/news/plus.gif" title="Added" alt="[+]" class="news-icon"/> Replaced hexadecimal editor library<br/>

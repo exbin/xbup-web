@@ -15,7 +15,7 @@
 </form>
 
 <h2>Donations</h2>
-<p>List of donations (till 2020-07):</p>
+<p>List of donations (to date 2021/03):</p>
 
 </div>
 </body>

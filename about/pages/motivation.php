@@ -30,10 +30,10 @@
 <p>You can learn more about this project by reading following sections:</p>
 
 <ul>
-<li><a href="?use_cases">Use Cases</a></li>
-<li><a href="?goals">Goals</a></li>
-<li><a href="?project_scope">Scope</a></li>
-<li><a href="?logo">Project Logo</a></li>
+<li><a href="?p=use_cases">Use Cases</a></li>
+<li><a href="?p=goals">Goals</a></li>
+<li><a href="?p=project_scope">Scope</a></li>
+<li><a href="?p=logo">Project Logo</a></li>
 </ul>
 
 </div>

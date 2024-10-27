@@ -34,7 +34,7 @@ Protocol design should cover following areas:
 </ul>
 
 <p>
-<a href="../doc/?protocol" class="wikilink1">More details about protocol&#039;s design.</a>
+<a href="../doc/?p=protocol" class="wikilink1">More details about protocol&#039;s design.</a>
 </p>
 
 </div>
@@ -59,7 +59,7 @@ Free and open source prototype implementation in Java is currently underway. It 
 </ul>
 
 <p>
-<a href="../doc/?implementation" class="wikilink1">More details about prototype implementation.</a>
+<a href="../doc/?p=implementation" class="wikilink1">More details about prototype implementation.</a>
 </p>
 
 </div>

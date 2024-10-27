@@ -1,10 +1,10 @@
 <div id="content">
 <h1 id="downloads">Older Downloads</h1>
 
-<strong>Download: Release 0.2.0 (2017-01-20)</strong><br/><br/>
+<strong>Download: Release 0.2.1 (2020-09-28)</strong><br/><br/>
 - Full Package<br/>
-Installation package for 32bit Windows <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.0-win32.exe?download">[EXE]</a><br/>
-ZIP Archive <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.0.zip?download">[ZIP]</a><br/><br/>
+Installation package for 32bit Windows <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.1-win32.exe?download">[EXE]</a><br/>
+ZIP Archive <a href="http://prdownloads.sourceforge.net/xbup/xbup_full-0.2.1.zip?download">[ZIP]</a><br/><br/>
 
 <strong>Download: Release 0.2.0 (2017-01-20)</strong><br/><br/>
 - Full Package<br/>
@@ -217,9 +217,9 @@ XB Editor for Delphi Sound <a href="http://prdownloads.sourceforge.net/xbup/xbse
 Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbuf_spec-wr6.html-CZ.zip?download">[ZIP]</a> (Czech)<br/>
 - Demonstration programs<br/>
 XB Editor in Delphi <a href="http://prdownloads.sourceforge.net/xbup/xbeditor-wr6.delphi.zip?download">[ZIP]</a><br/>
-XB Editor in Delphi Text <a href="download/?xbteditor-wr6.delphi.zip">[ZIP]</a><br/>
-XB Editor in Delphi Picture <a href="download/?xbpeditor-wr6.delphi.zip">[ZIP]</a><br/>
-XB Editor in Delphi Sound <a href="download/?xbseditor-wr6.delphi.zip">[ZIP]</a><br/><br/>
+XB Editor in Delphi Text <a href="download/?f=xbteditor-wr6.delphi.zip">[ZIP]</a><br/>
+XB Editor in Delphi Picture <a href="download/?f=xbpeditor-wr6.delphi.zip">[ZIP]</a><br/>
+XB Editor in Delphi Sound <a href="download/?f=xbseditor-wr6.delphi.zip">[ZIP]</a><br/><br/>
 
 <strong>Download: Work release 5 (20.10.2003)</strong><br/><br/>
 Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbuf_spec-wr5.html.zip?download">[ZIP]</a> (Partialy translated into English)<br/>
@@ -228,10 +228,10 @@ Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbuf_spec-wr5.htm
 <strong>Download: Work release 4 (14.9.2003)</strong><br/><br/>
 Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbff_spec-wr4.html-EN.zip?download">[ZIP]</a> (Partialy translated into English)<br/>
 Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbff_spec-wr4.html.zip?download">[ZIP]</a><br/>
-Microsoft DOC <a href="download/?xbff_spec-wr4.doc.zip">[ZIP]</a><br/>
+Microsoft DOC <a href="download/?f=xbff_spec-wr4.doc.zip">[ZIP]</a><br/>
 Document RTF <a href="http://prdownloads.sourceforge.net/xbup/xbff_spec-wr4.rtf.zip?download">[ZIP]</a><br/>
-Adobe PDF <a href="download/?xbff_spec-wr4.pdf">[PDF]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff_spec-wr4.pdf.zip?download">[ZIP]</a> (from DOC)<br/>
-Adobe PDF <a href="download/?xbff_spec-wr4.pdf-h.zip">[ZIP]</a> (from HTML)<br/>
+Adobe PDF <a href="download/?f=xbff_spec-wr4.pdf">[PDF]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff_spec-wr4.pdf.zip?download">[ZIP]</a> (from DOC)<br/>
+Adobe PDF <a href="download/?f=xbff_spec-wr4.pdf-h.zip">[ZIP]</a> (from HTML)<br/>
 Text (UTF-8 encoding) <a href="http://prdownloads.sourceforge.net/xbup/xbff_spec-wr4.txt-utf8.zip?download">[ZIP]</a><br/>
 Text (Windows 1250 encoding) <a href="http://prdownloads.sourceforge.net/xbup/xbff_spec-wr4.txt-win1250.zip?download">[ZIP]</a><br/>
 <p>I try to write some programs:</p>
@@ -247,16 +247,16 @@ Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr3.html.zip
 Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr3.en.html.zip?download">[ZIP]</a> (Partialy translated into English)<br/>
 <br/>
 <strong>Download: Work release 2 (4.2.2003)</strong><br/><br/>
-Adobe Post Script <a href="download/?xbff-wr2.ps">[PS]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2.ps.zip?download">[ZIP]</a><br/>
-Adobe PDF <a href="download/?xbff-wr2.pdf">[PDF]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2.pdf.zip?download">[ZIP]</a><br/>
-Microsoft DOC <a href="download/?xbff-wr2.doc">[DOC]</a>, <a href="download/?xbff-wr2.doc.zip">[ZIP]</a><br/>
-Document RTF <a href="download/?xbff-wr2.rtf">[RTF]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2.rtf.zip">[ZIP]</a><br/>
-Text (Kamenickych encoding) <a href="download/?xbff-wr2_kam.txt">[TXT]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2_kam.txt.zip">[ZIP]</a><br/>
-Text (DOS-CP852 encoding) <a href="download/?xbff-wr2_lat.txt">[TXT]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2_lat.txt.zip">[ZIP]</a><br/>
+Adobe Post Script <a href="download/?f=xbff-wr2.ps">[PS]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2.ps.zip?download">[ZIP]</a><br/>
+Adobe PDF <a href="download/?f=xbff-wr2.pdf">[PDF]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2.pdf.zip?download">[ZIP]</a><br/>
+Microsoft DOC <a href="download/?f=xbff-wr2.doc">[DOC]</a>, <a href="download/?f=xbff-wr2.doc.zip">[ZIP]</a><br/>
+Document RTF <a href="download/?f=xbff-wr2.rtf">[RTF]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2.rtf.zip">[ZIP]</a><br/>
+Text (Kamenickych encoding) <a href="download/?f=xbff-wr2_kam.txt">[TXT]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2_kam.txt.zip">[ZIP]</a><br/>
+Text (DOS-CP852 encoding) <a href="download/?f=xbff-wr2_lat.txt">[TXT]</a>, <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2_lat.txt.zip">[ZIP]</a><br/>
 Document HTML <a href="http://prdownloads.sourceforge.net/xbup/xbff-wr2.html.zip">[ZIP]</a>
 <br/><br/>
 
-You can try to convert natural number into <strong>BNatural</strong> form using <a href="download/?bnatural.zip">[ZIP]</a>.
+You can try to convert natural number into <strong>BNatural</strong> form using <a href="download/?f=bnatural.zip">[ZIP]</a>.
 There should be Java-translators later avaible and other format supporting programs in Delphi and Pascal.</p>
 
 </div>

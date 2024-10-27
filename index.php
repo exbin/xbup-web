@@ -1,10 +1,16 @@
-<?php include('header.php');
-$query = getenv('QUERY_STRING');
+<?php
+$query = @$_GET['p'];
 if (empty($query)) {
-  $include = 'pages/news.php';
+  $query = @getenv('QUERY_STRING');
+  $paramEndPos = strpos($query, '&');
+  $valuePos = strpos($query, '=');
+  if (!empty($query) && ($paramEndPos == null || ($paramEndPos > 0 && ($valuePos == null || $valuePos > $paramEndPos)))) {
+    header('Location: ?p='.$query);
+    exit();
+  } else {
+    $include = 'pages/news.php';
+  }
 } else {
-  $paramPos = strpos($query, '&');
-  if ($paramPos !== false) $query = substr($query, 0, $paramPos);
   $target = 'pages/'.$query.'.php';
   if (!(preg_match("/[a-z\/\_\-]+/", $query) === false) && file_exists($target)) {
     $include = $target;
@@ -14,6 +20,6 @@ if (empty($query)) {
   }
 }
 
+include('header.php');
 include $include;
-
 include 'refer.php'; ?>

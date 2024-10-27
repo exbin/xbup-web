@@ -17,7 +17,7 @@ This page should include list of people who participated on this project.
 </li>
 <li class="level1"><div class="li"> Location: Czech Republic</div>
 </li>
-<li class="level1"><div class="li"> Personal Homepage: <a href="http://hajdam.zdechov.net" class="urlextern" title="http://hajdam.zdechov.net"  rel="nofollow">http://hajdam.zdechov.net</a></div>
+<li class="level1"><div class="li"> Personal Homepage: <a href="https://hajdam.zdechov.net" class="urlextern" title="https://hajdam.zdechov.net"  rel="nofollow">https://hajdam.zdechov.net</a></div>
 </li>
 <li class="level1"><div class="li"> Email: bomi<em>@</em>centrum.cz (please write “XBUP:” in subject)</div>
 </li>
@@ -48,7 +48,7 @@ This page should include list of people who participated on this project.
 </div>
 
 <p>
-See separate page for <a href="about?logo">logo design</a>.
+See separate page for <a href="about/?p=logo">logo design</a>.
 </p>
 
 </div>

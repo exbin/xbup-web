@@ -3,7 +3,7 @@
 
 <div class="level2">
 <p>
-This project is currently in early development stage with Java prototype implementation under development. See <a href="?status">project status</a>.
+This project is currently in early development stage with Java prototype implementation under development. See <a href="?p=status">project status</a>.
 </p>
 
 <p>
@@ -16,7 +16,7 @@ If you are interested, read this page further to see how you can take a look on 
 <div class="level2">
 
 <p>
-You can browse and download source codes from GitHub repository: <a href="http://github.com/exbin" class="urlextern" title="http://github.com/exbin" rel="nofollow">http://github.com/exbin</a>
+You can browse and download source codes from GitHub repository: <a href="https://github.com/exbin" class="urlextern" title="https://github.com/exbin" rel="nofollow">https://github.com/exbin</a>
 </p>
 
 </div>
@@ -28,7 +28,7 @@ You can browse and download source codes from GitHub repository: <a href="http:/
 Following communication channels are available for developers:
 </p>
 
-<ul><li>Chat room: <a class="urlextern" href="https://matrix.to/#/!wlHpMzczmKXGHcznpx:matrix.org?via=matrix.org">XBUP room</a> on <a class="urlextern" href="https://element.io">Element.io</a></li>
+<ul><li>Chat: <a class="urlextern" href="https://discord.gg/kJyeRdM5S3">Discord</a></li>
 <li>Forum: <a class="urlextern" href="https://sourceforge.net/p/xbup/discussion/">Sourceforge.net discussion</a></li>
 <li>Mailing list: <a href="http://sourceforge.net/p/xbup/mailman/" class="urlextern" title="http://sourceforge.net/p/xbup/mailman/" rel="nofollow">Sourceforge.net mailing list</a></li> 
 <li>Contact: exbinproject@<span style="display:none">(at)</span>gmail.com</li></ul>
@@ -53,7 +53,7 @@ If you want to contribute to this project, you should consider taking some of th
 </ul>
 
 <p>
-List of <a href="?members">team members</a>.
+List of <a href="?p=members">team members</a>.
 </p>
 
 </div>

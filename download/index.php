@@ -29,14 +29,21 @@ function startsWith($text, $match) {
     return substr($text, 0, strlen($match)) === $match;
 }
 
-$query = str_replace('..','',@$_SERVER['QUERY_STRING']);
+$query = @$_GET['f'];
+if (empty($query)) {
+  $query = $_SERVER['QUERY_STRING'];
+}
+
+$query = str_replace('..','',@$query);
 $query = str_replace('%20',' ',$query);
 $component = ':' . $query;
 
 if (empty($query)) {
   $query = '../?downloads';
 } else {
-  file_put_contents("/var/www/html/xbup/download/referer.html", date("Y-m-d H:i:s").' '.$_SERVER['REMOTE_ADDR']." ".$component." : ".$referer."<br/>\n", FILE_APPEND);
+  if ("10.145.65.49" != $remoteAddr) {
+    file_put_contents("/var/www/html/xbup/download/referer.html", date("Y-m-d H:i:s").' '.$_SERVER['REMOTE_ADDR']." ".$component." : ".$referer."<br/>\n", FILE_APPEND);
+  }
 }
 header('Location: ' . $query);
 exit();

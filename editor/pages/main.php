@@ -3,7 +3,7 @@
 
 <p>Experimental graphical editor for XBUP-encoded files and streams.</p>
 
-<img src="images/xbeditor-0.2.1.png" alt="[XBEditor screenshot]" width="603" height="453" class="center"/>
+<img src="images/xbeditor-0.2.2.png" alt="[XBEditor screenshot]" width="829" height="523" class="center"/>
 
 <p>This application is used for prove-of-concept testing of XBUP protocol and is generally not production ready.</p>
 

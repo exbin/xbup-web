@@ -12,11 +12,11 @@ Application is currently in early development state. It is intended as test appl
 <h2><a id="application_s_look">Application&#039;s Look</a></h2>
 
 <p>
-Screenshot of XBEditor version 0.2.1:
+Screenshot of XBEditor version 0.2.2:
 </p>
 
 <p>
-<center><img src="images/xbeditor-0.2.1.png" class="mediacenter" title="XBEditor Screenshot" alt="XBEditor Screenshot"/></center>
+<center><img src="images/xbeditor-0.2.2.png" class="mediacenter" title="XBEditor Screenshot" alt="XBEditor Screenshot"/></center>
 </p>
 
 <h2 id="features">Features</h2>

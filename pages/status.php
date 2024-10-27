@@ -13,16 +13,14 @@ Development of the XBUP is currently in prototype phase with experimental protoc
 <div class="level2">
 
 <p>
-Next release should be work release 0.2.2 around end of 2020.
+Next release should be work release 0.3.0 hopefully in 2024.
 </p>
 
 <p>
 Next version should include:
 </p>
 <ul>
-<li class="level1"><div class="li"> Support for multiple / external catalogs</div>
-</li>
-<li class="level1"><div class="li"> Crude support for transformations</div>
+<li class="level1"><div class="li"> Support for transformations</div>
 </li>
 </ul>
 

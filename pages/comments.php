@@ -1,5 +1,5 @@
 <div id="content">
-<p>Add <a href="?add-comment">new comment</a>.</p>
+<p>Add <a href="?p=add-comment">new comment</a>.</p>
 <p>User comments for this project:</p>
 <?php
 
@@ -78,11 +78,11 @@ if ($count == 0) {
 	if ($count > $perpage) {
 	  echo '<p>';
 	  if ($pos > 0) {
-		echo '<a href="?comments&pos='.($pos-1).'">&lt;&lt;&nbsp;Previous page</a>&nbsp;&nbsp;';
+		echo '<a href="?p=comments&pos='.($pos-1).'">&lt;&lt;&nbsp;Previous page</a>&nbsp;&nbsp;';
 	  }
 	  $maxpos = intdiv($count + $perpage - 1, $perpage) - 1; 
 	  if ($pos < $maxpos) {
-		echo '<a href="?comments&pos='.($pos+1).'">Next page&nbsp;&gt;&gt;</a>';
+		echo '<a href="?p=comments&pos='.($pos+1).'">Next page&nbsp;&gt;&gt;</a>';
 	  }
 	}
 } ?>
