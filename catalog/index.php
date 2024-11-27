@@ -16,7 +16,7 @@ if (empty($query)) {
     header('Location: ?p='.$query);
     exit();
   } else {
-    $include = 'pages/main.php';
+    $include = 'pages/central_catalog.php';
   }
 } else {
   $target = 'pages/'.str_replace('/','_',$query).'.php';

@@ -2,12 +2,12 @@
 function showNavigation() {
   global $doc;
 
-  echo '<div>» <a href="../concept/">Concepts</a>';
+  echo '<div>» <a href="../specification/">Specification</a>';
 
   if (isset($doc)) {
     $prefix = '';
     foreach ($doc as $key => $value) {
-      echo ' » <a href="?p='.$prefix.$value['link'].'">'.$value['title'].'</a>';
+      echo ' » <a href="?'.$prefix.$value['link'].'">'.$value['title'].'</a>';
       $prefix .= $value['link'].'/';
     }
   }

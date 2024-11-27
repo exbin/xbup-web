@@ -2,8 +2,7 @@
 $prefix = '..';
 $submenu_editor =
 '<ul><li><a href="?p=download"><del>Download</del></a></li>
-<li><a href="?p=manual">Manual</a></li>
-<li><a href="?p=help"><del>Help</del></a></li></ul>';
+<li><a href="?p=manual">Manual</a></li></ul>';
 
 $query = @$_GET['p'];
 if (empty($query)) {
@@ -14,7 +13,7 @@ if (empty($query)) {
     header('Location: ?p='.$query);
     exit();
   } else {
-    $include = 'pages/main.php';
+    $include = 'pages/editor.php';
   }
 } else {
   $target = 'pages/'.str_replace('/','_',$query).'.php';

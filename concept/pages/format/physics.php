@@ -2,16 +2,16 @@
 <?php
 include 'pages/inc/list.php';
 
-include 'pages/_doc.php';
+include 'pages/format/_doc.php';
 showNavigation();
 ?>
-<h1 id="issues">Issues</h1>
+<h1 id="concepts-physics-formats">Concepts: Physics Formats</h1>
 
 <h2 class="sectionedit2" id="content">Content</h2>
 <div class="level2">
 <ul>
 <?php
-  showList('issue');
+  showSubList('format', 'physics');
 ?>
 </ul>
 

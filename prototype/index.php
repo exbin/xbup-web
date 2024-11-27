@@ -1,9 +1,7 @@
 <?php global $prefix;
 $prefix = '..';
-
-$query = getenv('QUERY_STRING');
-//$submenu_concept = '
-//<ul><li><a href="?p=test">Test</a></li></ul>';
+$submenu_prototype =
+'';
 
 $query = @$_GET['p'];
 if (empty($query)) {
@@ -14,10 +12,10 @@ if (empty($query)) {
     header('Location: ?p='.$query);
     exit();
   } else {
-    $include = 'pages/concepts.php';
+    $include = 'pages/prototype_implementation.php';
   }
 } else {
-  $target = 'pages/'.$query.'.php';
+  $target = 'pages/'.str_replace('/','_',$query).'.php';
   if (!(preg_match("/[a-z\/\_\-]+/", $query) === false) && file_exists($target)) {
     $include = $target;
   } else {
