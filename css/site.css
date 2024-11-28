@@ -51,7 +51,7 @@ pre {
 
 div#name {
     margin-left: 0em;
-    margin-top: 1em;
+    margin-top: 0em;
     margin-bottom: 0.8em;
   }
 
@@ -69,7 +69,7 @@ div#name a, div#name a.active, div#name a.hover {
 div#navbar {
     float: right;
     margin-right: 0em;
-    margin-top: -3.8em;
+    margin-top: -3em;
 }
 
 div#navbar a {
@@ -81,7 +81,7 @@ div#navbar a {
     display: block;
     float: left;
     margin: 0 0.6em;
-    padding-top: 34px;
+    padding-top: 32px;
 }
 
 div#navbar a#FeaturesIcon {

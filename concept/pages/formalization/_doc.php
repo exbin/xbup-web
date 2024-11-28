@@ -2,6 +2,6 @@
 include 'pages/inc/doc.php';
 
 $doc = array(
-  array('link'=>'formal','title'=>'Protocol Formalisation')
+  array('link'=>'formalization','title'=>'Protocol Formalization')
 );
 ?>

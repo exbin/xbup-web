@@ -20,7 +20,7 @@ if (!empty($prefix)) {
 </head>
 
 <body>
-<div id="name"><h1><a href="<?php echo $parentPrefix; ?>"><img src="<?php echo $parentPrefix; ?>images/xbup-logo.png" alt="[XBUP]" title="Icon" height="70" style="vertical-align: text-top; margin-top: -20px;"/>&nbsp;XBUP - Extensible Binary Universal Protocol</a></h1></div>
+<div id="name"><h1><a href="<?php echo $parentPrefix; ?>">XBUP - Extensible Binary Universal Protocol</a></h1></div>
 <div id="navbar">
   <a id="DownloadIcon" href="<?php echo $rootPrefix; ?>?p=downloads">Download</a>
   <a id="DocumentationIcon" href="<?php echo $rootPrefix; ?>doc/">Manual</a>
@@ -40,8 +40,8 @@ if (!empty($prefix)) {
   <li><div>Documentation</div>
     <ul class="submenu">
       <li><a href="<?php echo $parentPrefix; ?>doc/">Documentation</a><?php echo @$submenu_documentation; ?></li>
-      <li><a href="<?php echo $parentPrefix; ?>doc?p=specification">Specification</a><?php echo @$submenu_specification; ?></li>
-      <li><a href="<?php echo $parentPrefix; ?>doc?p=implementation">Implementation</a><?php echo @$submenu_implementation; ?></li>
+      <li><a href="<?php echo $parentPrefix; ?>specification/">Specification</a><?php echo @$submenu_specification; ?></li>
+      <li><a href="<?php echo $parentPrefix; ?>prototype">Prototype</a><?php echo @$submenu_prototype; ?></li>
     </ul>
   </li>
   <li><div>Apps</div>

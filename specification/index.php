@@ -1,7 +1,7 @@
 <?php global $prefix;
 $prefix = '..';
 $submenu_specification =
-'';
+'<ul><li><a href="?p=rfc">RFC</a></li></ul>';
 
 $query = @$_GET['p'];
 if (empty($query)) {
